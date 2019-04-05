@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6900cdd1-f1c6-4c81-9861-f7febd0a83e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Receipt.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="6900cdd1-f1c6-4c81-9861-f7febd0a83e0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,12 +145,12 @@
       <workItem from="1553117021817" duration="2116000" />
       <workItem from="1553225013120" duration="3754000" />
       <workItem from="1554329214959" duration="7240000" />
-      <workItem from="1554441198562" duration="4332000" />
+      <workItem from="1554441198562" duration="4509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17442000" />
+    <option name="totallyTimeSpent" value="17619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="827" extended-state="0" />
